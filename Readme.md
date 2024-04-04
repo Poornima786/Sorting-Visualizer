@@ -1,6 +1,8 @@
+# Sorting Visualizer
+
 Interactive web app showcasing sorting algorithms' inner workings. Dive deep into the inner workings of various sorting algorithms, visualize their step-by-step processes, and compare their efficiencies.
 
-# Implemented Sorting Algorithms:
+(1)Implemented Sorting Algorithms:
 Bubble sort
 Selection sort
 Insertion sort
@@ -9,15 +11,15 @@ Quick sort
 Heap sort
 Features:
 
-# Visual indication of each step's execution:
+(2)Visual indication of each step's execution:
 Blue: Default
 Yellow: Comparison
 Red: Incorrect position (to be moved)
 Green: Correct position
 
-# Visualization controls:
+(3)Visualization controls:
 Speed (5 levels)
 Data size adjustment
 Random data generation
 
-# Insights into time and space complexity for each algorithm.
+(3)Insights into time and space complexity for each algorithm.
