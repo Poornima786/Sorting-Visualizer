@@ -25,6 +25,8 @@ Random data generation
 (3)Insights into time and space complexity for each algorithm.
 
 ![image](https://github.com/Poornima786/Sorting-Visualizer/assets/152088344/5a22498b-4a09-465e-bc4d-318780d68d3e)
+![image](https://github.com/Poornima786/Sorting-Visualizer/assets/152088344/79df6566-b8b3-421b-9ac8-efbcef032f03)
+
 
 
 
